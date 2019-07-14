@@ -2,7 +2,7 @@
 # How to rank 24% at an AnalyticsVidhya competition with 24 lines of code and no statistics or machine learning whatsoever
 
 This blogpost is about my approach at the [AnalyticsVidhya competition of 20/01/2019.](https://datahack.analyticsvidhya.com/contest/capillary-machine-learning-hackathon/)
-![Picture of the leaderboard](top_25_pct2.png)
+![Picture of the leaderboard](capillary_static/top_25_pct2.png)
 
    
 
@@ -31,9 +31,9 @@ print(product_df.head())
 
 Listing 1: The product attributes were a waste of time.
 
-![Some not popular dresses in this store](unpopular.png)
+![Some not popular dresses in this store](capillary_static/unpopular.png)
 
-![Some popular dresses in this store](popular.png)
+![Some popular dresses in this store](capillary_static/popular.png)
 
 Very colourful.One of these rows represents some top-sellers, whereas the other represents items only being bought once. Can you distinguish among them? (EDIT: In hindsight, they do seem very different, [and the people who used visual similarities did quite alright](https://drive.google.com/open?id=1T2dGWdyCy7gCm5bPbKeZzpmBhKOdlLdx) )
 
